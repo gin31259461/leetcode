@@ -2,8 +2,6 @@
 #include <sstream>
 #include <string>
 #include <vector>
-#include <algorithm>
-#include <map>
 
 class Solution
 {
